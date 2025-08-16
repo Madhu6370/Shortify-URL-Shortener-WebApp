@@ -1,5 +1,5 @@
-# URL Shortener
-A full-stack URL shortener web application built with **React (frontend)** and **Spring Boot (backend)**.  
+# Shortify-URL Shortener Web App
+Shortify is a full-stack URL shortener web application built with **React (frontend)** and **Spring Boot (backend)**.  
 It allows users to shorten long URLs and retrieve the original URL using the shortened version.
 
 ---
